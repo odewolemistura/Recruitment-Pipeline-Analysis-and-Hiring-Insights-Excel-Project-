@@ -95,7 +95,7 @@ The dashboard is organized into **two main pages**, each targeting distinct HR o
 
 **Goal:** Understand who is applying and their qualifications.  
 
-PICTURE
+![image alt](https://github.com/odewolemistura/Recruitment-Pipeline-Analysis-and-Hiring-Insights-Excel-Project-/blob/390f77c37840cbcf2a7fb545689933d8ddbf0201/Recruitment%20Dashboard1.png)
 
 ### Key Metrics (Top of Chart)  
 
