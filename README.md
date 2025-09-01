@@ -115,7 +115,7 @@ Together, these indicators give HR stakeholders a clear overview of applicant vo
 
 With **Application Month** and **Status** as slicers, these KPIs dynamically update to show how applicant profiles and hiring outcomes shift over time and across recruitment stages, helping stakeholders detect seasonal patterns and focus on specific points in the pipeline.  
 
----
+
 
 ## Visualizations (Page 1 – Applicant Demographics & Talent Pool)  
 
@@ -131,7 +131,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 - **Top 10 Job Titles by Applicant Count (Column Chart):** Highlights job roles with the highest number of applications. Helps HR identify positions attracting the most interest for workforce demand analysis.  
 
----
+
 
 ## Page 2: Recruitment Funnel & Hiring Performance  
 
@@ -159,7 +159,7 @@ Together, these measures allow HR teams to assess recruitment performance, monit
 
 With **Application Month** and **Status** as slicers, these KPIs dynamically update to show how applicant profiles and hiring outcomes shift over time and across recruitment stages, helping stakeholders detect seasonal patterns and focus on specific points in the pipeline.  
 
----
+
 
 ### Visualizations  
 
@@ -175,7 +175,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 - **Hires by Country (Map Chart):** Visualizes the geographic distribution of hired candidates. Enables HR to identify regional hiring strengths, sourcing effectiveness, and workforce patterns.  
 
----
+
 
 ## Key Analysis Findings  
 
@@ -218,7 +218,7 @@ The dataset contains **3,000 job applications** with:
 ### Salary Trends in Hires  
 - Highest-paying hires fall into **specialist/professional roles** (e.g., Associate Professors, Hospital Doctors, Psychologists) averaging **~$99k**, showing a premium on expertise.  
 
----
+
 
 ## Recommendations  
 
@@ -240,7 +240,7 @@ The dataset contains **3,000 job applications** with:
 6. **Reduce Funnel Abandonment**  
    - Use automated communication (status updates, nudges, assessments) to shorten cycle time and improve candidate experience.  
 
----
+
 
 ## Limitations  
 
