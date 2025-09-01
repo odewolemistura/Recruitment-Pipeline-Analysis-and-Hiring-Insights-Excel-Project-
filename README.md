@@ -138,7 +138,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 **Goal:** Track recruitment pipeline efficiency and outcomes.  
 
 
-page 2 pic
+![image alt](https://github.com/odewolemistura/Recruitment-Pipeline-Analysis-and-Hiring-Insights-Excel-Project-/blob/068ea5d2c5c9012f819c3beee746755535ff1de4/Recruitment%20Dashboard2.png)
 
 
 ### Key Metrics (Top of Chart)  
