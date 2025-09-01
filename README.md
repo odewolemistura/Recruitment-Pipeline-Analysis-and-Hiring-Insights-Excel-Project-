@@ -1,6 +1,6 @@
 # Recruitment-Pipeline-Analysis-and-Hiring-Insights-Excel-Project-
 
-# Project Overview  
+## Project Overview  
 
 This **Recruitment Pipeline Analysis and Hiring Insights** report is built to enable HR teams to make informed, data-driven choices in talent acquisition and workforce planning. The study examines applicant demographics, qualifications, work experience, salary expectations, and recruitment funnel dynamics. Its purpose is to reveal insights that enhance hiring effectiveness, highlight process bottlenecks, and guide strategic HR planning.  
 
@@ -34,7 +34,6 @@ To drive meaningful insights, I began by identifying key stakeholders (HR manage
 
 These questions form the foundation of the analysis, focusing on applicant demographics, salary alignment, and recruitment pipeline performance to support data-driven HR decision-making.  
 
----
 
 ## Dataset Overview  
 
@@ -67,7 +66,6 @@ Data preparation was conducted in **Power Query** and **Excel**. Key steps inclu
 These transformations ensured the dataset was consistent, analysis-ready, and optimized for interactive dashboards using Pivot Tables and Power Pivot.  
 
 
-
 ## Measures (DAX)  
 
 **Description:** Contains calculated measures created using **DAX** within Power Pivot to derive key recruitment KPIs and track hiring efficiency. These measures form the foundation of the dashboard, providing insights into applicant demographics, salary expectations, and recruitment funnel outcomes.  
@@ -88,11 +86,10 @@ Delivers summary metrics that power data-driven analysis of the applicant pool a
 - Compare candidate expectations with hiring outcomes  
 - Strengthen workforce planning  
 
-# Data Analysis and Visualization  
+## Data Analysis and Visualization  
 
 The dashboard is organized into **two main pages**, each targeting distinct HR objectives and providing actionable insights for recruitment teams and decision-makers.  
 
----
 
 ## Page 1: Applicant Demographics & Talent Pool Overview  
 
@@ -100,7 +97,7 @@ The dashboard is organized into **two main pages**, each targeting distinct HR o
 
 PICTURE
 
-# Key Metrics (Top of Chart)  
+### Key Metrics (Top of Chart)  
 
 - **Total Applicants**  
 - **Average Years of Experience**  
@@ -120,7 +117,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 ---
 
-# Visualizations (Page 1 – Applicant Demographics & Talent Pool)  
+## Visualizations (Page 1 – Applicant Demographics & Talent Pool)  
 
 - **Applicant Gender Distribution (Donut Chart):** Displays the breakdown of applicants by gender, providing a quick view of gender diversity within the applicant pool. Supports HR efforts in monitoring inclusivity and demographic balance.  
 
@@ -136,7 +133,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 ---
 
-# Page 2: Recruitment Funnel & Hiring Performance  
+## Page 2: Recruitment Funnel & Hiring Performance  
 
 **Goal:** Track recruitment pipeline efficiency and outcomes.  
 
@@ -144,7 +141,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 page 2 pic
 
 
-# Key Metrics (Top of Chart)  
+### Key Metrics (Top of Chart)  
 
 - **Total Applications**  
 - **Total Hired Applicants**  
@@ -164,7 +161,7 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 ---
 
-# Visualizations  
+### Visualizations  
 
 - **Recruitment Hiring Status Distribution (Bar Chart):** Displays the number of applicants segmented by hiring status (e.g., Hired, Rejected, In Progress). Highlights the overall distribution of outcomes, helping HR assess pipeline balance and recruitment effectiveness.  
 
@@ -180,9 +177,9 @@ With **Application Month** and **Status** as slicers, these KPIs dynamically upd
 
 ---
 
-# Key Analysis Findings  
+## Key Analysis Findings  
 
-## Overview  
+### Overview  
 The dataset contains **3,000 job applications** with:  
 - Average applicant age: **40 years**  
 - Average work experience: **10 years**  
@@ -192,13 +189,11 @@ The dataset contains **3,000 job applications** with:
 - Applications peak: **June and July**  
 - Largest group: Professionals aged **45–65**  
 
-## Key Findings  
+### Key Findings  
 - The **45–65 age range** dominates applications, suggesting a mature workforce. The **18–24 group** is the smallest, signaling weaker entry-level pipelines.  
 - **Gender distribution** is even, with neutral recruitment outcomes showing no visible bias.  
 - **Salary expectations** remain consistent ($64k–$66k) across experience levels, suggesting market standardization.  
 - **Geography:** Applications are widely spread, but countries like **Korea, India, and Paraguay** contribute notably. Smaller regions (e.g., Falkland Islands, British Virgin Islands) appear disproportionately in hires, hinting at niche roles.  
-
----
 
 ### Recruitment Journey  
 
@@ -225,7 +220,7 @@ The dataset contains **3,000 job applications** with:
 
 ---
 
-# Recommendations  
+## Recommendations  
 
 1. **Strengthen Early-Career Recruitment**  
    - Introduce graduate trainee programs, internships, or mentorships to improve entry-level fit and long-term hiring success.  
@@ -247,7 +242,7 @@ The dataset contains **3,000 job applications** with:
 
 ---
 
-# Limitations  
+## Limitations  
 
 - **Data Scope:** Only 3,000 applications, limiting broader generalization.  
 - **Time Dimension:** Covers May–Aug 2023 only; seasonal peaks may not be recurring trends.  
