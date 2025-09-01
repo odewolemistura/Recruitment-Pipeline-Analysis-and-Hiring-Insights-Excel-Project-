@@ -4,7 +4,6 @@
 
 This **Recruitment Pipeline Analysis and Hiring Insights** report is built to enable HR teams to make informed, data-driven choices in talent acquisition and workforce planning. The study examines applicant demographics, qualifications, work experience, salary expectations, and recruitment funnel dynamics. Its purpose is to reveal insights that enhance hiring effectiveness, highlight process bottlenecks, and guide strategic HR planning.  
 
----
 
 ## Problem Statement  
 
@@ -20,7 +19,6 @@ The goal of this analysis is to use synthetic recruitment data to deliver insigh
 
 To address these challenges, the following steps were taken.  
 
----
 
 ## Posing Business Questions  
 
@@ -54,7 +52,6 @@ The dataset used in this project was sourced from **Kaggle** and consists of **s
 
 This dataset enabled a multi-dimensional analysis of applicant profiles, talent pool quality, and recruitment funnel performance to uncover insights that support data-driven HR decision-making.  
 
----
 
 ## Data Cleaning & Transformation  
 
@@ -69,7 +66,7 @@ Data preparation was conducted in **Power Query** and **Excel**. Key steps inclu
 
 These transformations ensured the dataset was consistent, analysis-ready, and optimized for interactive dashboards using Pivot Tables and Power Pivot.  
 
----
+
 
 ## Measures (DAX)  
 
@@ -203,7 +200,7 @@ The dataset contains **3,000 job applications** with:
 
 ---
 
-# Recruitment Journey  
+### Recruitment Journey  
 
 - Out of **3,000 applications**:  
   - **610 hires**  
