@@ -111,7 +111,7 @@ These headline KPIs provide a quick snapshot of the applicant pool and overall t
 - **Average Years of Experience**: Shows the general professional background applicants bring to their desired roles.  
 - **Average Desired Salary**: Reflects compensation expectations across the applicant pool, helping assess alignment with hiring budget.  
 
-Together, these indicators give HR stakeholders a clear overview of applicant volume, qualifications, and salary expectations—critical for evaluating the strength and composition of the talent pipeline.  
+Together, these indicators give HR stakeholders a clear overview of applicant volume, qualifications, and salary expectations, critical for evaluating the strength and composition of the talent pipeline.  
 
 With **Application Month** and **Status** as slicers, these KPIs dynamically update to show how applicant profiles and hiring outcomes shift over time and across recruitment stages, helping stakeholders detect seasonal patterns and focus on specific points in the pipeline.  
 
